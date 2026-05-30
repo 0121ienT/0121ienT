@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer — I build AI agents, computer-vision systems, and the MLOps that ships them to production</h3>
 
 <p align="center">
-  <a href="https://tyler-pham-portfolio-jade.vercel.app">
+  <a href="https://tylerpham.dev">
     <img src="https://img.shields.io/badge/Portfolio-0b0b0c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/phamdt203/">
